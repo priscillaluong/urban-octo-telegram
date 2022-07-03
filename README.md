@@ -16,9 +16,11 @@ Acceptance Criteria:
 
 * Ensured that CSS selectors and properties were consolidated to improve readability, by grouping together classes with the same styling (see code below).
 
-* Added comments to the HTML and CSS document to clearly distinguish different sections e.g. Body, Header, Sections, Footer (see code below). 
+* Added comments to the CSS document to clearly distinguish different sections e.g. Body, Header, Sections, Footer (see code below). 
 
-* Organised document to ensure elements follow a semantic structure. 
+* Organised HTML and CSS document to ensure elements follow a semantic structure. 
+
+* Added alt attributes to all images.
 
 ```
 /********************************
