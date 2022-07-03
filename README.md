@@ -14,9 +14,11 @@ Acceptance Criteria:
 
 ## Changes I Implemented:
 
-* Ensured that CSS selectors and properties were consolidated to improve readability, by grouping together classes with the same styling.
+* Ensured that CSS selectors and properties were consolidated to improve readability, by grouping together classes with the same styling (see code below).
 
-* Added comments to the HTML and CSS document to clearly distinguish different sections e.g. Body, Header, Sections, Footer. 
+* Added comments to the HTML and CSS document to clearly distinguish different sections e.g. Body, Header, Sections, Footer (see code below). 
+
+* Organised document to ensure elements follow a semantic structure. 
 
 ```
 /********************************
@@ -42,3 +44,13 @@ Acceptance Criteria:
     color: #ffffff;
 }
 ```
+## Screenshot of Application:
+
+![Deployed Application Screenshot](./assets/images/application-1.png) 
+
+![Deployed Application Screenshot](./assets/images/application-2.png) 
+
+## URL to Deployed Application:
+
+[Click here](https://priscillaluong.github.io/week-one-challenge/) 
+
