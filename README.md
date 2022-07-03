@@ -56,3 +56,7 @@ Acceptance Criteria:
 
 [Click here](https://priscillaluong.github.io/week-one-challenge/) 
 
+#### Final note: 
+
+*Feedback would be appreciated should any fellow developers spot any errors after reviewing the code* 😊
+
