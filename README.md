@@ -20,7 +20,8 @@ Acceptance Criteria:
 
 ```
 /********************************
-* Content Section (Left) * *********************************/
+* Content Section (Left) *
+*********************************/
 .content {
     /*Positioning*/
     width: 75%;
