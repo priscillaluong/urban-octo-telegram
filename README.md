@@ -1,33 +1,21 @@
 # Week One Challenge
 
-Week One Challenge of the *UOB Full Stack Development Coding Bootcamp* requires students to 
+Week One Challenge of the *UOB Full Stack Development Coding Bootcamp* requires students to refactor code to improve **accessibility**.
 
-User Story: 
-> AS A marketing agency 
->
-> I WANT a codebase that follows accessibility standards
->
->SO THAT our own site is optimized for search engines.
+We were given a User Story and an Acceptance Criteria as per below:
 
-Acceptance Criteria: 
-> GIVEN a webpage meets accessibility standards
->
->WHEN I view the source code
->
->THEN I find semantic HTML elements
->
->WHEN I view the structure of the HTML elements
->
->THEN I find that the elements follow a logical structure independent of styling and positioning
->
->WHEN I view the image elements
->
->THEN I find accessible alt attributes
->
->WHEN I view the heading attributes
->
->THEN they fall in sequential order
->
->WHEN I view the title element
->
->THEN I find a concise, descriptive title
+User Story:
+
+![User Story](./assets/images/user-story.png) 
+
+Acceptance Criteria:
+
+![Acceptance Criteria](./assets/images/acceptance-crit.png) 
+
+## Changes I Implemented:
+
+* Ensured that CSS selectors and properties were consolidated to improve readability, by grouping together classes with the same styling.
+
+* Added comments to the HTML and CSS document to clearly distinguish different sections e.g. Body, Header, Sections, Footer. 
+
+* 
